@@ -23,6 +23,10 @@ I am a student 16 years old , currently studying in Smk Medikacom  From very ear
 	- Codeigniter 
    	 -Laravel ❤️
 	- Node Js With Express Js  ❤️
+- **other skills**
+	-Understanding RestFul Api Concept 
+	-UML
+	-
 
 	
   
@@ -35,7 +39,7 @@ I am a student 16 years old , currently studying in Smk Medikacom  From very ear
 -Learn Next js
 -Lean Golang For Web Development 
 -Node Js advanced concepts 
-- i Never Stop Learning New Technology !!! 
+-i Never Stop Learning New Technology !!! 
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/tegar97?label=Follow&style=social)](https://github.com/tegar97)
