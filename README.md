@@ -5,18 +5,27 @@
 </div>
 
 ## About me :mortar_board:
-I am a student, currently studying in Smk Medikacom  From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I am a student 16 years old , currently studying in Smk Medikacom  From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 ## What I know :computer:
 - **Programming Language**
 	- Javascript ❤️
 	- TypeScript 
 	- Python
+	-PHP
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap ⭐️
-   	 -Vue js with vuetify ⭐️
-	- React with Hook and Redux :electron: ❤️
+	- Bootstrap 
+   	 -Vue js with vuetify 
+	- React with Hook and Redux  ❤️
+- **Backend Development**
+	- PHP NATIVE
+	- Codeigniter 
+   	 -Laravel ❤️
+	- Node Js With Express Js  ❤️
+
+	
+  
   
 
 
@@ -24,12 +33,13 @@ I am a student, currently studying in Smk Medikacom  From very early on in my li
 - Learn Microservices 
 - Learn Docker and Kubertnas 
 -Learn Next js
+-Lean Golang For Web Development 
 -Node Js advanced concepts 
 - i Never Stop Learning New Technology !!! 
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/tegar97?label=Follow&style=social)](https://github.com/tegar97)
-[![Instagram](https://img.shields.io/badge/-@sarthak_bharadwaj-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/akmalmuhammadtegar/_/)](https://www.instagram.com/akmalmuhammadtegar_/)
+[![Instagram](https://img.shields.io/badge/-@tegar-akmal-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/akmalmuhammadtegar/_/)](https://www.instagram.com/akmalmuhammadtegar_/)
 
 
 
