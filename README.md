@@ -24,8 +24,8 @@ I am a student 16 years old , currently studying in Smk Medikacom  From very ear
    	 -Laravel ❤️
 	- Node Js With Express Js  ❤️
 - **soft skill**
-	-Understanding RestFul Api Concept 
-	-UML
+	- Understanding RestFul Api Concept 
+	- UML
 	
 
 	
