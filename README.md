@@ -8,23 +8,15 @@
 I am a student, currently studying in Smk Medikacom  From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 ## What I know :computer:
-    
-  ⭐️ = favorite technology and i 
+- **Competitive Programming**
+	- Python ❤️
+	- C++
+	- Some Java
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap ⭐️
-   -Vue js with vuetify ⭐️
-	- React with Hook and Redux :electron: ⭐️ ⭐️
-   **Backend Development**
-	-PHP Native
-  -Codeigniter 
-  -laravel ⭐️
-  -expres js ⭐️⭐️⭐️
-   **Programming Language**
-   -Javascript ⭐️⭐️⭐️
-   -Typescript ⭐️
-   -Java 
-   -python 
+	- Bootstrap
+	- React with Redux :electron:
+	- React Native
   
 
 
