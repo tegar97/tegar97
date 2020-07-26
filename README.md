@@ -23,10 +23,10 @@ I am a student 16 years old , currently studying in Smk Medikacom  From very ear
 	- Codeigniter 
    	 -Laravel ❤️
 	- Node Js With Express Js  ❤️
-- **other skills**
+- **soft skill**
 	-Understanding RestFul Api Concept 
 	-UML
-	-
+	
 
 	
   
