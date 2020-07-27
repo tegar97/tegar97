@@ -16,14 +16,19 @@ I am a student 16 years old , currently studying in Smk Medikacom  From very ear
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap 
-   	 -Vue js with vuetify 
+   	- Vue js with vuetify 
 	- React with Hook and Redux  ❤️
+	- Material ui for react js 
+	- basic svelte js 
 - **Backend Development**
 	- PHP NATIVE
 	- Codeigniter 
    	 -Laravel ❤️
 	- Node Js With Express Js  ❤️
-
+- **Backend Development**
+	- MongoDB
+	- MYsql
+	-sql lite
 - **soft skill**
 	- Understanding RestFul Api Concept 
 	- UML
