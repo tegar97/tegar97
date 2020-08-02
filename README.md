@@ -17,9 +17,8 @@ I am a student 16 years old , currently studying in Smk Medikacom  From very ear
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap 
    	- Vue js with vuetify 
-	- React with Hook and Redux  ❤️
+	- React with Hook ❤️
 	- Material ui for react js 
-	- basic svelte js 
 - **Backend Development**
 	- PHP NATIVE
 	- Codeigniter 
