@@ -9,8 +9,7 @@ I am a student 16 years old , currently studying in Smk Medikacom  From very ear
 
 ## What I know :computer:
 - **Programming Language**
-	- Javascript ❤️
-	- TypeScript 
+	- Javascript  ❤️
 	- Python
 	-PHP
 - **Frontend Development**
