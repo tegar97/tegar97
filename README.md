@@ -8,11 +8,8 @@ I am a student 16 years old , currently studying in Smk Medikacom  From very ear
   
 
 ## What I want to do next :thinking:
-- Learn Microservices 
 - Learn Docker and Kubertnas 
-- Lean Golang For Web Development 
 - Machine Learning
-- React native
 - Rust
 
 
