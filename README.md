@@ -7,10 +7,6 @@ I am a student 16 years old , currently studying in Smk Medikacom  From very ear
 	
   
 
-## What I want to do next :thinking:
-- Learn Docker and Kubertnas 
-- Machine Learning
-- Rust
 
 
 
